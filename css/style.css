@@ -1,0 +1,58 @@
+.body {
+    
+    font-size: 14px;
+    font-family: sans-serif;
+    height: 100vh;
+   
+}
+.container {
+    background-color: #f5cac2;
+    height: 100%;
+    width: 80%;
+    float: left;
+    }
+
+
+.images {
+    background-color: rgb(179, 189, 151);
+    background-image: center;
+        height: 100%;
+        width: 20%;
+        float: right;
+      
+}
+.heading {
+    text-align: center;
+}
+
+.menu {
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    height: 100px;
+    background-color: #ed7966;
+    font-family: sans-serif;   
+    position: relative; 
+    font-weight: bold;
+  }
+
+  .list {
+    list-style: none;
+    display: inline-block;
+    line-height: 100px;
+    
+       }
+       
+  ul li a {
+    text-decoration: none;
+    padding: 0px;
+    color: black;
+   }
+   .testimonial {
+    margin: 0;
+    padding: 0;
+    background-color: #ed7969;
+    width: 100%;
+    height: 100px;
+    font-family: sans-serif;
+   }
